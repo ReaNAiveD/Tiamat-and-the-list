@@ -112,7 +112,7 @@ C-->H[DialogManager]
 
 可交互道具的脚本父类，可交互道具的脚本继承自它并需要实现关于自身的存档存取方法和交互提示。SceneManager也会通知其是否在主角附近。
 
-## 对话的存储加载
+## DialogManager
 
 对话通过读取解析文本直接控制，单条对话的文本格式如下
 
@@ -143,6 +143,8 @@ Index|Section|对话人|文本内容|使用图片或立绘名|分支数（若无
 ```
 
 不同关卡的对话将保存在不同的对话文件。命名以关卡名-Dialog.txt
+文件保存的关卡名以SceneManager的LevelName指定，调用对话只要通过DialogManager.ShowDialog(string)，传入section名即可。
+对话中人物不可与场景交互，移动。相应事件在InputManager锁住。
 
 ## 分工
 
