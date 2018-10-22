@@ -3,6 +3,7 @@
 | 18.9.18 | 初步框架确立，世界观及剧情的初步设计 | 小白 |
 | 18.9.20 | 建立github项目，改写为Markdown文件 | 小古 |
 | 18.9.30 | 初步完成教学关的设计，确认教学关美术要求 | 小白 |
+| 18.10.22 | 更新了非关卡设计的原型图 | 小白 |
 
 - [游戏简介](#游戏简介)
 - [世界观介绍](#世界观介绍)
@@ -106,6 +107,17 @@
 # 游戏基础设计
 # 游戏内容设计
 ## 主界面UI
+### 开始界面
+![Image text](https://github.com/NJUCACGameMaker/Tiamat-and-the-list/blob/master/Design%20resource/%E5%BC%80%E5%A7%8B%E7%95%8C%E9%9D%A2.jpg)
+### 加载界面
+![Image text](https://github.com/NJUCACGameMaker/Tiamat-and-the-list/blob/master/Design%20resource/%E5%8A%A0%E8%BD%BD%E7%95%8C%E9%9D%A2.jpg)
+### 设定界面
+![Image text](https://github.com/NJUCACGameMaker/Tiamat-and-the-list/blob/master/Design%20resource/%E8%AE%BE%E5%AE%9A%E7%95%8C%E9%9D%A2UI.jpg)
+![Image text](https://github.com/NJUCACGameMaker/Tiamat-and-the-list/blob/master/Design%20resource/%E8%AE%BE%E5%AE%9A%E7%95%8C%E9%9D%A2UI2.jpg)
+### 关卡内UI
+![Image text](https://github.com/NJUCACGameMaker/Tiamat-and-the-list/blob/master/Design%20resource/%E5%85%B3%E5%8D%A1%E5%86%85UI.jpg)
+### 对话部分UI
+![Image text](https://github.com/NJUCACGameMaker/Tiamat-and-the-list/blob/master/Design%20resource/%E5%AF%B9%E8%AF%9D%E9%83%A8%E5%88%86UI.jpg)
 ## 教学关
 ### 游戏内容
 故事从男主尝试杀死马尔杜克名单上的仇人们开始。仇人们都是导致父母死亡的直接参与者，教学关开始时，男主已经跟着名单杀到了最后一个仇人那里。游戏从男主暗杀目标仇人A开始。
