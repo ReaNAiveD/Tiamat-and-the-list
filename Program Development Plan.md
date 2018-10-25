@@ -100,6 +100,10 @@ C-->H[DialogManager]
 }
 ```
 
+PlayerPrefs存储属性：
+"HasArchive" ： 是否有存档
+"LastSceneName" ： 退出时所在的场景名
+
 ### PlayerManager
 
 玩家角色控制
