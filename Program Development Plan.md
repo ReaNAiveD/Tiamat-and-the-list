@@ -80,22 +80,30 @@ C-->H[DialogManager]
 ```Json
 {
   "Tutorial":{
-    "SceneOne":[
-      {
-        "index":"0",
-        "archive":"......"
-      },
-      {
-        "index":"1",
-        "archive":"......"
-      }
-    ]
-    "SceneTwo":[
-      {
-        "index":"0",
-        "archive":"......"
-      }
-    ]
+    "Player":{
+      "Scene" : "Scene1",
+      "archive" : "......"
+    }
+    "SceneOne":{
+      "Items":[
+        {
+          "index":"0",
+          "archive":"......"
+        },
+        {
+          "index":"1",
+          "archive":"......"
+        }
+      ]
+    }
+    "SceneTwo":{
+      Items:[
+        {
+          "index":"0",
+          "archive":"......"
+        }
+      ]
+    }
   }
 }
 ```
