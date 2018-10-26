@@ -85,6 +85,9 @@ C-->H[DialogManager]
       "archive" : "......"
     }
     "SceneOne":{
+      "Scenario":{
+        "archive":"......"
+      }
       "Items":[
         {
           "index":"0",
@@ -97,7 +100,10 @@ C-->H[DialogManager]
       ]
     }
     "SceneTwo":{
-      Items:[
+      "Scenario":{
+        "archive":"......"
+      }
+      "Items":[
         {
           "index":"0",
           "archive":"......"
