@@ -3,8 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Torch
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -39,21 +38,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: BG
-    uniqueID: 1259514523
-    locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: BackItem
-    uniqueID: 2963980249
-    locked: 0
-  - name: Player
-    uniqueID: 2858966525
-    locked: 0
-  - name: ForeItem
-    uniqueID: 535378899
-    locked: 0
-  - name: FG
-    uniqueID: 2987364565
     locked: 0
